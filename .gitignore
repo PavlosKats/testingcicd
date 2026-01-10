@@ -1,0 +1,20 @@
+# Build results
+bin/
+obj/
+
+# Debug and Release folders
+[Dd]ebug/
+[Rr]elease/
+
+# VS Code settings
+.vscode/
+.vs/
+
+# Test results
+TestResults/
+*. trx
+*.coverage
+
+# OS-specific files
+.DS_Store
+Thumbs.db
