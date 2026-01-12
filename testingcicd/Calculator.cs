@@ -1,5 +1,6 @@
 namespace CalculatorApp
 {
+    //Calculator with CI/CD pipeline
     public class Calculator
     {
         public double Add(double a, double b)
